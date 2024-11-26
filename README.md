@@ -62,4 +62,8 @@
         <div class="passo" id="passo-9">
             <p>O rio à esquerda leva você a uma cachoeira escondida com inscrições antigas que revelam a entrada da
                 cidade perdida.</p>
-         
+            </div>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
